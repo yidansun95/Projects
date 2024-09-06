@@ -1,17 +1,8 @@
+# Projects
 
-# My Project
+# Description
 
-This is a description of my project.
+### Game Match Prediction
+- Purpose and Objective: Trained test data and implemented different machine learning models and adjusted own strategy to get the best accuracy for predicting game final result from first 15 mins Diamond Rank data (Data Source: Kaggle)
 
-## Features
-
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
-
-## Usage
-
-To run the project, use the following command:
-
-```bash
-npm start
+- Process: Approached statistical data exploration, Correlation Matrix over features, 7 Machine Learning Models( KNN, Logistics Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, Naive Bayes, Decision Tree, Random Forest) and adjusted different combination of models and own strategy to get the best accuracy for prediction around 78%
