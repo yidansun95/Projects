@@ -9,7 +9,7 @@
 - Process: Approached statistical data exploration, Correlation Matrix over features, 7 Machine Learning Models( KNN, Logistics Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, Naive Bayes, Decision Tree, Random Forest) and adjusted different combination of models and own strategy to get the best accuracy for prediction around 78%
 
 
-### Behavorial Analysis 
+### Behavioral Analysis 
 - File Format: Power BI
 - Purpose: Four Power BI dashboards have been developed to monitor and analyze user behavior during mental health sessions across four key areas: Question Response Performance, Mood Fluctuation Tracking, Engagement Levels, and Chat Text Interactions. 
       
