@@ -1,6 +1,4 @@
-# Projects
-
-# Description
+# Projects Description
 
 ### Game Match Prediction
 - File Format: Python Script
