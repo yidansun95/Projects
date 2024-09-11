@@ -7,7 +7,7 @@
 
 ### Text Engineering
 - Tool/Format: Python,SQL,Azure Data Studio, NoSQL(Cosmos),Power BI
-- Objective: clean text data and get more insights in real-time participants' behaviors from word cloud, words frequency, words spam list in dynamic dahsboards
+- Objective: Get clean text data and get more insights in real-time participants' behaviors from word cloud, words frequency, words spam list in dynamic dahsboards
 - Process:Preprocessed millions of mental health session participants' chat data from Azure Data Studio into Python for natural language processing. Implemented tokenization, stop word removal, and stemming using NLP packages. Developed a text spam detector and integrated the processed data into Power BI to visualize insights through word clouds, word frequency analysis, and real-time chat spam alerts, with breakdowns ranging from monthly to daily trends.
 
 
