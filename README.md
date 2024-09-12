@@ -8,13 +8,18 @@
 ### Text Engineering
 - Tool/Format: Python,SQL,Azure Data Studio, NoSQL(Cosmos),Power BI
 - Objective: Get clean text data and get more insights in real-time participants' behaviors from word cloud, words frequency, words spam list in dynamic dahsboards
-- Process:Preprocessed millions of mental health session participants' chat data from Azure Data Studio into Python for natural language processing. Implemented tokenization, stop word removal, and stemming using NLP packages. Developed a text spam detector and integrated the processed data into Power BI to visualize insights through word clouds, word frequency analysis, and real-time chat spam alerts, with breakdowns ranging from monthly to daily trends.
+- Process: Preprocessed millions of mental health session participants' chat data from Azure Data Studio into Python for natural language processing. Implemented tokenization, stop word removal, and stemming using NLP packages. Developed a text spam detector and integrated the processed data into Power BI to visualize insights through word clouds, word frequency analysis, and real-time chat spam alerts, with breakdowns ranging from monthly to daily trends.
 
+
+### Statistical Analysis
+- Tool/Format: R
+- Objective: Address with problem "Do other variables like age, medication, gender, billing amount and admission type significantly associated with the odds of getting cancer ? "
+- Process: Implemented logistic regression model in R studio with significance level of 0.05 to validate from 15 lurking risk factors like smoking status, chronic disease, peer pressure, fatigue and more in significantly increase chance of lung cancer. Delivered result on p-value for each variable.
 
 ### Cosmetic Chemicals System 
 - Tool/Format: SQL(Snowflake),Tableau
 - Objective: To analyze toxic cosmetic brands and chemical usage trends from 2009 to 2020, identifying potential patterns across companies and subcategories.
-- Process:Transformed unstructured Excel data from 2009–2020 into a structured data warehouse. Designed an ERD, built a star schema, and implemented an ETL process to clean and organize 116,000 records in Snowflake. Ranked chemical usage by company, brand, and subcategory, and created visual insights using Tableau. Delivered a comprehensive final report highlighting key trends and toxic chemical usage patterns.
+- Process: Transformed unstructured Excel data from 2009–2020 into a structured data warehouse. Designed an ERD, built a star schema, and implemented an ETL process to clean and organize 116,000 records in Snowflake. Ranked chemical usage by company, brand, and subcategory, and created visual insights using Tableau. Delivered a comprehensive final report highlighting key trends and toxic chemical usage patterns.
 
 ### Game Match
 - Format: Python
